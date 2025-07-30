@@ -7,8 +7,9 @@ RentZone is a full-stack web platform designed to streamline the renting process
 ---
 ### 🌐 Live Links
 
-🔗 Live Website: RentZone Live Website
-📦 GitHub Repository: RentZone Repo
+🔗 Live Website: RentZone Live Website  
+
+📦 GitHub Repository: RentZone Repo  
 
 ---
 
@@ -41,10 +42,12 @@ git clone https://github.com/yourusername/rentzone.git
 cd rentzone
 
 - **Install dependencies for both frontend and backend**
-npm install
+
+  npm install
 
 - **Run the server**
-npm start
+
+  npm start
 
 - **Access the app**
 Visit http://localhost:3000
