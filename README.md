@@ -40,13 +40,13 @@ Database: MongoDB (hosted on MongoDB Atlas)
 git clone https://github.com/yourusername/rentzone.git
 cd rentzone
 
-### Install dependencies for both frontend and backend
+- **Install dependencies for both frontend and backend**
 npm install
 
-### Run the server
+- **Run the server**
 npm start
 
-### Access the app
+- **Access the app**
 Visit http://localhost:3000
 Feature	Description
 Homepage	Browse all listings with filters
