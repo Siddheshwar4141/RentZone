@@ -5,50 +5,48 @@
 RentZone is a full-stack web platform designed to streamline the renting process of various assets such as hotels, villas, islands, beach wedding halls, and more. It provides a seamless user experience for both asset owners and renters, offering features like real-time availability, interactive maps, secure authentication, and detailed listing management.
 
 ---
-# 🌐 Live Links
+### 🌐 Live Links
 
 🔗 Live Website: RentZone Live Website
 📦 GitHub Repository: RentZone Repo
 
 ---
-# 🎯 Key Features
+
+### 🎯 Key Features
 
 👤 User Functionality:
-🔐 Register and log in securely
-
-📂 Browse rental assets by category, location, or availability
-
-🏡 View detailed property pages with descriptions, amenities, pricing, and reviews
-
-📆 Book assets with live availability updates
-
+- 🔐 Register and log in securely
+- 📂 Browse rental assets by category, location, or availability
+- 🏡 View detailed property pages with descriptions, amenities, pricing, and reviews
+- 📆 Book assets with live availability updates
 
 🏘️ Owner/Host Functionality:
-➕ Add new listings with images (via Cloudinary integration)
+- ➕ Add new listings with images (via Cloudinary integration)
+- 📝 Edit or delete existing rental items
+- 📬 Manage bookings and customer inquiries
 
-📝 Edit or delete existing rental items
-
-📬 Manage bookings and customer inquiries
 ---
-# 🛠️ Tech Stack
+
+### 🛠️ Tech Stack
+
 Frontend : React.js, Bootstrap, JavaScript
 
 Backend : Node.js, Express.js
 
 Database: MongoDB (hosted on MongoDB Atlas)
 
-# ⚙️ Installation and Setup
-# Clone the repository
+### ⚙️ Installation and Setup
+- Clone the repository
 git clone https://github.com/yourusername/rentzone.git
 cd rentzone
 
-# Install dependencies for both frontend and backend
+### Install dependencies for both frontend and backend
 npm install
 
-# Run the server
+### Run the server
 npm start
 
-# Access the app
+### Access the app
 Visit http://localhost:3000
 Feature	Description
 Homepage	Browse all listings with filters
